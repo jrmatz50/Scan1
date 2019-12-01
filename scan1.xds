@@ -1,0 +1,72 @@
+{
+    "name": "scan1",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "7.0.0.40",
+            "frameworkVersion": "6.7.0.212"
+        },
+        "urlPrefixTemplate": "http://localhost:{port}/{path}",
+        "urlPrefix": "http://localhost:54974/",
+        "canvasControls": {
+            "viewportSize": {
+                "name": "PlayBook/Kindle Fire",
+                "builtIn": true,
+                "height": 1024,
+                "width": 600
+            },
+            "viewportOrientation": "landscape"
+        },
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "CRLF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true,
+        "lastBuildSelection": {
+            "value": "webBuild",
+            "display": "Build web app",
+            "buildPlatform": false
+        },
+        "lastNativeBuildSelection": {
+            "value": "nativeBuildAndroid",
+            "display": "Android",
+            "buildPlatform": "android"
+        }
+    },
+    "xdsVersion": "4.2.6",
+    "xdsBuild": 423,
+    "schemaVersion": 1,
+    "upgradeVersion": 310000000001,
+    "framework": "modern67",
+    "viewOrderMap": {
+        "view": [
+            "166b091e-f47b-4c53-a13c-c737029cc3c2",
+            "c402f865-7a8b-4d95-b929-aceae9ea38de",
+            "e7d7417e-20f7-4dc8-95ca-ddd0a049b889"
+        ],
+        "store": [
+            "11ac54e3-8eb8-4e77-af2b-d391e06adc53",
+            "f87dce2f-74a8-47df-b7b1-1f3ebd4b56e8"
+        ],
+        "controller": [
+            "50eb2d9a-3cab-4017-852e-fad681e81785"
+        ],
+        "model": [
+            "5320b09b-90be-4666-8eef-392b2621597f",
+            "00c96937-444a-4b48-8f09-7843b197c488"
+        ],
+        "resource": [
+            "65e11c43-9b9d-47b7-a4e1-6485948674b5",
+            "589bccc2-bc56-4fab-aa39-10ae6393b029",
+            "b5f46e73-e7b3-4b5c-b1a3-dce89b3c0dc0",
+            "65ee2c57-ff9b-4620-a5dc-b10c6e13b002",
+            "9c4ec1eb-3564-42c5-a1ef-e446488aa451"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://geminisignproducts.com/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.geminisignproducts.InvScan"
+versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Inventory Scan</name>
+
+  <description>
+    off line Scanning process
+  </description>
+
+  <author   email="Jim.Matz@GeminiSignProducts.com">
+      Jim Matz
+  </author>
+
+</widget>
